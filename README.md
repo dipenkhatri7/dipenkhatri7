@@ -8,8 +8,7 @@
 
 	
 ## <picture><img src = "https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width = 28px></picture> **About me**
-
-<picture> <img align="right" src="https://asset.cloudinary.com/dpx53grhp/0b6aa5b405f9081ab1972671fcb0b13c" width = 280px></picture>
+<a href="https://gifyu.com/image/ShPmx"><img src="https://s4.gifyu.com/images/68747470733a2f2f696d352e657a6769662e636f6d2f746d702f657a6769662d352d633638326435343962392e676966.gif" alt="68747470733a2f2f696d352e657a6769662e636f6d2f746d702f657a6769662d352d633638326435343962392e676966.gif" border="0" align="right" width = 280px /></a>
 
 <br>
 
