@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width = 28px></picture> **About me**
 
-<picture> <img align="right" src="https://im5.ezgif.com/tmp/ezgif-5-c682d549b9.gif" width = 280px></picture>
+<picture> <img align="right" src="https://asset.cloudinary.com/dpx53grhp/0b6aa5b405f9081ab1972671fcb0b13c" width = 280px></picture>
 
 <br>
 
