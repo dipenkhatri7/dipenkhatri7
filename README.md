@@ -15,7 +15,7 @@
 - A passionate Self-taught Full Stack developer
 - Currently learning NodeJS
 - I’m currently open for an Intern or a job opportunity, here is [my resume]()
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Personal website [link](https://www.dipenkhatri.com.np)
 - ♟️ & ⚽️ 
 
 <br>
