@@ -13,9 +13,9 @@
 <br>
 
 - A passionate Self-taught Full Stack developer
-- Currently learning NodeJS
-- I’m currently open for an Intern or a job opportunity, here is [my resume]()
-- Personal website [link](https://www.dipenkhatri.com.np)
+- Currently exploring AI/ML
+- I’m currently open for an Intern or a job opportunity, here is [My CV](https://www.dipenkhatri.com.np/about?from=cv)
+- Personal website [https://www.dipenkhatri.com.np/](https://www.dipenkhatri.com.np/)
 - ♟️ & ⚽️ 
 
 <br>
